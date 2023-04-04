@@ -17,7 +17,7 @@ export default function Skills(){
       </Grid>
       <Grid item xs={4}>
       <Card3/>
-      </Grid>
+      </Grid>  
       <Grid item xs={4}>
       <Card4/>
       </Grid>
